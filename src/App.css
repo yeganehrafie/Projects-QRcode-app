@@ -1,0 +1,7 @@
+* {
+  background-color: #EDEDED;
+}
+
+input:focus {
+  border-color: #0066CC;
+}
